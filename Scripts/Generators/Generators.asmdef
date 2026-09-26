@@ -1,0 +1,17 @@
+{
+    "name": "Generators",
+    "rootNamespace": "Generators",
+    "references": [
+        "GUID:b4922e8f3e90fde458aba6d7587072d1",
+        "GUID:ee3274e01e7b73b44a9015292bfc2c1a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
